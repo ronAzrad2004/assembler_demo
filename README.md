@@ -1,4 +1,5 @@
 # assembler_demo
+YOU WILL RUN THE CODE BY FIRST GOING TO THE DIR WITH ALL THE FILES AND WRITE MAKE AFTER THET YOU WILL RUN THE EXE FILE THAT WAS CREATED ITS NAME IS C_ASM_TEST AND THATS IT YOU WILL NEED TO EITHER WRITE ASSEMBLY COMMANDS OR GIVE IT A FILE USING C_ASM_TEST <the_name_of_your_file AND THAT IS IT
 This is a project that i had to do in Systems Programming Laboratory using the prog language c.
 The project gets a file that has assembly commands and translating it to binary with specific rules,
 it could also get commands from the terminal.
