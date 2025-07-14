@@ -1,0 +1,9 @@
+LIST: .data #4, -4, 2, 1, 1, 0, 6
+.data #-1
+NUM1: .data 1
+NUM2: .data #2
+STR: .string "Hello World!!!"
+.string "something"
+S1: .string ";#21mov""
+S2: .string "12345     65544     4333,,,,,"
+stop
